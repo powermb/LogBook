@@ -1,0 +1,8 @@
+Log Book
+
+*****2013*******
+
+2013.05.03
+Reviewed output of CCI_PrevAnalysis_2013_0426.sas
+Met with Marianthi about IPW weights for air pollution - psychiatric outcomes
+Started public log book
