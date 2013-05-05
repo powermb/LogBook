@@ -6,3 +6,30 @@ Log Book
 Reviewed output of CCI_PrevAnalysis_2013_0426.sas
 Met with Marianthi about IPW weights for air pollution - psychiatric outcomes
 Started public log book
+
+2013.05.05
+PM_PSYCH PROJECT
+Reviewed output of CCI_PrevAnalysis_2013_0426.sas
+	Main findings:
+	-PM2.5 is associated with prevalent symptoms - stronger assoc with shorter lags
+	-Coarse fraction is null, PM10 is halfway in between PM2.5 and Coarse
+	-DTR, some suggestive assoc, but poor dose response/consistency across different metrics
+	-Little evidence of EMM except perhaps by region
+	-Sensitivity analyses are consistent with main analyses - stronger effects for 88-03 PM2.5 in non-movers
+	Suggested to do list:
+	-Alternate DTR categories (100m, 300m cut-offs)
+	-Splines to look for non-linearity
+	-Closer look at EMM by region
+	-Double check % close code to see if reverse coded? (right now close = fewer symptoms)
+	-IPW
+	-New sensitivity - exlcude "cases" in 1988
+Reviewed output of CCI_IncAnalyses_2013_0426.sas and associated R code
+	-DTR is null
+	-Splines indicate linear is fine, still null
+	-Alternate case definition (include those on meds as case), excluding B-S index, new covar list
+		doesn't change anything - still null for main analyses
+	-Looking at MSA vs non-MSA - do see an assoc with PM2.5 and incident "cases" in those not in an MSA
+		-Very small N
+		-Direction of covars is similar, but some big swings
+		-?Outlier driven
+	-Need to look more closesly at EMM by region, htn, age - LRT?
