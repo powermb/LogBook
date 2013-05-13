@@ -33,3 +33,23 @@ Reviewed output of CCI_IncAnalyses_2013_0426.sas and associated R code
 		-Direction of covars is similar, but some big swings
 		-?Outlier driven
 	-Need to look more closesly at EMM by region, htn, age - LRT?
+
+2013.05.13
+PM-PSYCH PROJECT
+	Met with Mariathi about IPW weights
+	Met with Marc
+		-Called Inc analysis done, with exception of applying IPW and double checking EMM
+		-Agreed with proposed follow-ups for prev analysis:  
+		check percclose code, alt DTR categories, drop med income, splines, sens excluding cases
+		in 1988, IPW, closer look at EMM
+JH POST DOC
+	Filled out XTrain for JH post doc
+	Sent scanned copy of payback agreement to Marilyn
+HIVMGH
+	Provided comments on 2nd draft of Chelsea Pilot Study paper
+MORTALITY-SELECTION
+	Met with Marc - he will provide a copy of the table and direction on where to find code for review
+OTHER
+	Informed Marc that last day physically in the office will probably be June 7
+
+
