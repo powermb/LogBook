@@ -76,5 +76,30 @@ FRIDAY HARBOR
 MELODEM
 	Worked on presentation for tomorrow's meeting
 
+2013.05.16
+MELODEM MTG
+
+2013.05.17
+MELODEM MTG
+PAPER IDEA
+	editorial about aims of epidemiology - prediction, description, causal intervention effect, causal mechanistic effect
+	use an interval censor model and competing risks to get a HR and K-M curve for different intermediate dementia endpoints (David Clayton conversation) - idea is to provide a prediction of "how long do I have to x if I have condition y"
+
+2013.05.20
+MIDDLE AUTHOR
+	Provided edits to Elena on BC-Cog-miRNA
+PM-PSYCH
+	Met with marianthi, discussed missing indicator method for continous data and coding thus far
+	Agreed to look at code to see what is going on before moving onwards
+MELODEM FOLLOW-UP
+	Discussed what would need to be done to use NAS data for Maria's practice effects paper
+	Emailed Maria about practice effects and including Richey Sharret 
+	Universal expense report 
+	Scanned boarding passes
+PBMORTALIT
+	Tried to address Marc's coding problem
+
+
+
 
 
