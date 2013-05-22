@@ -96,10 +96,40 @@ MELODEM FOLLOW-UP
 	Emailed Maria about practice effects and including Richey Sharret 
 	Universal expense report 
 	Scanned boarding passes
-PBMORTALIT
+PBMORTALITY
 	Tried to address Marc's coding problem
 
+2013.05.21
+PM-PSYCH
+	Reviewed Marianthi's code for IPW weights data. 
+JH POST DOC
+	Provided Rebecca Gottesman with list of things I'd like to know when I arrive
+LITERATURE
+	Read paper on non-melanoma skin cancer and AD in Neurology - strongly protective - is this selection?
+	PMID     23677746
+PBMORTALITY
+	Reviewed Marc's output of Pb-mortality with different restrictions/Cox coding of time 
+		- doesn't match correction
+		-want further evidence that using phreg interval censoring commands = andersen-gill counting 
+LECTURE
+	Attended Geordi's lecture on gene emm of methylmercury and cognitive function in kids
 
+2013.05.22
+PM-PSYCH
+	Finished review of Marianthi's code (baseDataset only)
+	Analytical decisions about IPW process and rationale:
+		-14% of questionnaires completed were the short form questionnaire, with about 11% for each year. 
+		-The pattern does not seem to be such that people do long, then short, then drop out/die according to visual 				inspection of the data.  Often times we'll get a short form questionnaire in the middle of otherwise consistent 				follow-up. 
+		-This is supported by further exploration.  If we restrict to the last observation per person where they did 				complete a questionnaire, 21% of them were short questionnaires.  Only 3% of persons completed a short 	questionnaire 		only as their last questionnaire.   ~40% of persons completed a short questionnaire prior to their last one. 		However, completing the short form questionnaire in 2002 does predict if they have a CCI in 2004.  Looks like short 		form questionnaire completion does predict subsequent drop out, but it is far from deterministic. 
+
+		1.  Keep them as not censored after 1988-2002 as long as they complete a questionnaire (either long or short) the 		following year (i.e. if irt02 ne . then censored00 = 0). 
+		2.  Consider them censored after 2002 if they do not complete the CCI in 2004, even if they complete other parts 		of the questionnaire and have a valid irt date.
+		3.  Consider them dead, not censored, if they died before 2004. 
+		4.  Given that short form questionnaire completion does predict drop out, let's add it as a time-varying variable 		to our logistic regression models 
+PB-COG
+	Finalized almost all manuscript documents for submission, including creation of Appendix B
+	Uploaded everything to submission website for Environmental Research
+	Waiting on final "OK" on highlights to submit
 
 
 
