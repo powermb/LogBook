@@ -131,5 +131,46 @@ PB-COG
 	Uploaded everything to submission website for Environmental Research
 	Waiting on final "OK" on highlights to submit
 
+2013.05.23
+PB-COG
+	Finalized highlights, submitted to Environmental Research
+PB-MORTALITY
+	Met with Marc
+	To-do list:
+1.  Mindy will check the weight programs.
+2.  Marc will then create a file that does the following analyses:
+-All analyses in white only, same Pb exposure categories, Andersen-Gill counting structure, adjusted for covariates and age at XRF
+-6 models:
+(a) full dataset
+(b) restricted to <45 at baseline 
+(c) full dataset with IPW for loss to follow-up up to point of XRF
+(d) full dataset with IPW for both death and loss to follow-up
+(e) restriced to <45 dataset with IPW for loss to follow-up up to point of XRF
+(f) restricted to <45 dataset with IPW for both death and loss to follow-up
+3.  At some point we should do a lit review of the literature on left truncation/left censoring and look up all the refs on right censoring from Howe et al. 
+
+PM-PSYCH
+	Met with Marianthi about IPW weights, followed up with Marc
+	we're going to do the following approach:
+
+1.  Try ignoring the death/censoring distinction.  Take anyone who skipped 2 questionnaires in a row and consider them censored at the time of their last completed questionnaire.  See if the model fits pretty well.  Hopefully it does and we consider this the "weighted for drop out for any reason including death" option.
+
+2.  Delete anyone who died before 2004 from the dataset.  Predict drop-out only (again, defining anyone who skipped 2 questionnaires in a row as censored at the time of their last completed questionnaire.  This is the "RCT interpretation" option.
+
+I'm around almost all day tomorrow if you need to talk through this.  617 721 9984.  
+
+To summarize our other decisions:
+
+1.  Use PM2.5 and coarse as the exposure variables
+2.  For all models, drop visit, keep age (try categorical, and then, if it makes sense some continuous or continuous+squared term), drop age at menopause, weight, race.  Always force in age, PM and education.
+3. Process: Try making a "full model" then try adding age*health outcomes or smoking variables - keep the ones that seem useful.  Follow that by coming up with an analyst motivated parsimonious/defensible model that hopefully works across datasets.
+4.  Get a table of # years between year of death and year of last quesitonnaire.
+5.  Get a list of people who are considered "censored" according to the skip 2 questionnaire rule but who complete a CCI in 2004.  
+
+BUSINESS
+	Submitted reimbursement to Rachel Link for MELODEM expenses
+	
+	
+
 
 
