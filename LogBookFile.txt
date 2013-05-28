@@ -182,7 +182,24 @@ PM-PSYCH
 JH POST DOC
 	Talked to Rebecca about doing SEM analyses - yes something I'm interested in
 	Assured that won't be data analyst, will take charge of the project, and doesn't mean imaging work won't happen
+FRIDAY HARBOR
+	Got guarantee of funding, booked ticket
 
-
-
-
+2013.05.28
+JH POST DOC
+	Called in to ARIC Analysis Meeting
+	Called about Epi post doc appointment
+BC-COG-HFE
+	Created poster for SAC meeting - sent out
+BP-COG
+	Draft response to editors's comments and revised manuscript for R&R to Epidemiology
+PM-PSYCH
+	CCIP analysis output printed and reviewed
+	Added test for trend to CCIP
+	Added influence diagnostics for CCIP
+	Fixed EMM coding issue in CCIP analysis
+	Outlined tables for discussion with Marc tomorrow
+	Checked %close code is correct
+	Fixed CCII table 1 code
+MELODEM
+	Sent email to Carole about whether she needs the originals and whether she needs bank acct info
