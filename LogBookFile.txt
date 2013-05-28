@@ -171,6 +171,18 @@ BUSINESS
 	Submitted reimbursement to Rachel Link for MELODEM expenses
 	
 	
+2013.05.24
+PM-PSYCH
+	Updated CCI_DataPrep_2013_0514 to check percclose code and fix msa format
+	Updated CCII_Spline_2013_0514 to add level 1 covariates models
+	Debugged MHI_DataPrep_2013_0514
+	Updated CCI_IncAnalysis_2013_0514 to add a simplified nonMSA model, improve emm coding, comment out some quintile analyses because effect is truly linear, enable Table 1
+	Updated CCI_PrevAnalysis_2013_0514 to add alt DTR, drop medinc, sensitivity excluding 1988 cases, improve emm coding, comment out some of the quintile analyses in sensitivity or emm modles
+	Created CCIP_03_Spline_2013_0514 and CCIP_8803_Spline_2013_0514 to look for non-linearity
+JH POST DOC
+	Talked to Rebecca about doing SEM analyses - yes something I'm interested in
+	Assured that won't be data analyst, will take charge of the project, and doesn't mean imaging work won't happen
+
 
 
 
