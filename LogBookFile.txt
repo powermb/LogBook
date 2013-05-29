@@ -203,3 +203,23 @@ PM-PSYCH
 	Fixed CCII table 1 code
 MELODEM
 	Sent email to Carole about whether she needs the originals and whether she needs bank acct info
+
+2013.05.29
+PM-PSYCH
+	Debugged MHI_Dataprep_2013_0514 and MHI_Analyses_2013_0514
+	Met with Marc
+		-Check median of quintiles to decide how to do trend test
+		-Check existing literature to figure out for what PM increment to report effects in
+		-Report effects in %change in count score per unit increase in PM
+		-Check spline - is there a test for "is it non-linear"
+		-Try restricting to those who return quex in June
+		-Correlations across lags
+		-Add movers sensitivity for 2003 and lags
+		-Check case exclusion - is it 1988?
+		-Think about how to evaluate if restricting to non-movers produces bias
+		-Create large tables:  Table 1 = covars and DTR, Table 2 = exposure dist for PM, Table3 = linear PM, unadj, adj1, adj2, Table 4 = quintiles PM adj 1 only, Table 5 = DTR unadj, adj1 adj2, Table 6 = PM correlations, Table 7 = Sensitivity analyses PM, Table 8 = how covars vary by quintiles of PM (choose most important lag/type of PM)
+		-Create streamlined paper focusing on lag of interest, play up public health burden and how other papers suck
+BP-COG
+	Discussed revise and resubmit
+	Revised mansucript according to comments
+	Checked what association would be in terms of age in our data prior to age adjustment
