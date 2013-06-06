@@ -222,4 +222,56 @@ PM-PSYCH
 BP-COG
 	Discussed revise and resubmit
 	Revised mansucript according to comments
-	Checked what association would be in terms of age in our data prior to age adjustment
+	Checked what association would be in terms of age in our data
+	prior to age adjustment
+
+2013.05.30
+COMMENCEMENT
+
+2013.05.31
+
+2013.06.03
+PM-PSYCH
+	Met with Marianthi to discuss IPW weights -> mostly make sense, but H-L is problematic..?missingness
+	Decided to look at more fine-grained c-table to look for potential positivity issue
+	Decided to reassign <5% missingness to the largest category
+	Recoded splines
+PB-MORT
+	Reviewed Marc's code on IPW weights and provided following comments:
+	1.  The second stepwise model has a likelihood error - what did you do to get around this?
+	2.  Why are you forcing in the hypertension variables?
+	3.  The c-table for the dead model indicates you might have a positivity problem.
+	4.  The H-L test is significant for the other model - this is also bad.
+	You can also see the potential positivity problem when you compare the proc means from all the visits and for the 613 persons you have in your analytical dataset.  The range for those in your analytical dataset is MUCH smaller than for all the visits.  You aren't getting the full range of people available to you.
+
+2013.06.04
+BP-COG
+	Finish BP-Cog edits for minor revision submission, waiting for Marc's comments
+JH POst Doc	
+	Called about tuition again, new number, still no call back
+PB-MORT
+	Discussed strategies for Marc's correction to circulation and results from new models
+	Tertile cut offs seem to matter a bunch
+IMPLAUS TRAJ
+	Started SER poster
+
+2013.06.05
+MELODEM
+	Sent tickets and receipt via UPS to Carole
+
+2013.06.06
+IMPLAUS TRAJ
+	Checked ESD output - regardless of whether we only allow improvement to be extreme or not, get same answer
+	Finalized poster with slightly new packaging (focus on outlierness, rather than implausibility) in line with Channing/Rosner comments, and sent to co-authors for review
+	Paid for SER
+FRIDAY HARBOR
+	Printed materials
+BP-COG
+	Resubmit with minor revisions
+PM-PSYCH
+	Debug MHI_Dataprep_2013_0514.sas and MHI_Analysis_2013_0514.sas
+
+
+	
+
+
