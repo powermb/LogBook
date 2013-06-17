@@ -269,7 +269,65 @@ FRIDAY HARBOR
 BP-COG
 	Resubmit with minor revisions
 PM-PSYCH
-	Debug MHI_Dataprep_2013_0514.sas and MHI_Analysis_2013_0514.sas
+	Debug MHI_Dataprep_2013_0514.sas and
+	MHI_Analysis_2013_0514.sas
+
+2013.06.10 
+to 
+2013.06.15
+FRIDAY HARBOR
+       Attended
+       Worked in hemodynamics subgroup
+       Interest in resilience - work with Paul and Donald on a
+       resilience paper?
+IMPLAUS TRAJ
+	Submited poster for SER to printer
+
+2013.06.16
+PM-PSYCH
+	Coding changes to CCI_DataPrep and CCI_PrevAnalyses
+	CCI_DataPrep_2013_0603 -> added a mover0204 variable to 0514 code to allow looking at lags
+	CCI_PrevAnalysis_2013_0603 -> 
+	add sensitivity analysis for June quex return and non-movers for 2003 lags
+	add computation of median for each quintile for potential use in trend test (need to look at this)
+	added analyses stratified by region
+	code added/annotated to create the following tables and figures:
+	TABLES
+	1. Covars
+	2. Exp dist
+	3.  Linear PM assoc
+	4.  Quintile PM assoc
+	5.  DTR
+	6.  Sensitivity PM
+	7.  Sensitivity DTR
+	8.  PM Correlations
+	9.  EMM by region for strongest lag, linear
+	10.  Covars by quintiles of strongest lag
+	FIGURES
+	1.  NA (Will be stock graph of linear assoc across lags)
+	2.  Histogram of CCI scores
+METHODS
+	Started working through problem of centering variables,
+	interaction terms, and p-values
+
+2013.06.17
+PM-PSYCH
+	Debug CCI_DataPrep_2013_0603.sas
+AG-HEALTH
+	Submitted progress report
+MELODEM
+	Inquired about reimbursement
+	Confirmed UPS package delivered
+	Emailed RG about going to ICAD meeting
+PB-MORTALITY
+	Discussed DAG with Marc
+OTHER
+	Cleaned out desk
+
+
+
+
+
 
 
 	
