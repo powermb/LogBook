@@ -324,6 +324,40 @@ PB-MORTALITY
 OTHER
 	Cleaned out desk
 
+2013.06.18 to 2013.06.21
+CONFERENCE
+	Attended SER
+PM-PSYCH
+	Debug CCI_DataPrep_2013_0603.sas
+(Ill/packing)
+
+2013.06.24 to 2013.06.29
+(move/unpack)
+PM-PSYCH
+	Debug CCI_DataPrep_2013_0603.sas
+
+2013.07.01
+JH POST DOC
+   	HR forms for Dept of Epi and ARIC Supplemental Money
+	New ID
+	Started IRB process
+
+2013.07.02
+JH POST DOC
+   	Documents to Wayne Causion for I-9
+	Parking pass
+	IRB training
+ARIC
+	Meet with Richey Sharret @ intro to ARIC (see notes:  2013.07.02_ARIC_Richey_GeneralInfo.doc)
+	Meet with Karen Bandeen Roche and others to discuss SEM (See
+	notes:  2013.07.02_ARIC_SEM_Kickoff.docx)
+	Meet with Richey Sharrett and Alden Gross @ ARIC (see notes:  2013.07.02_ARIC_Richey&Alden_Geocodes.doc)
+MELODEM
+	Practice effects conference call (see notes: 2013.07.02_PracticeEffects_ConfCall.doc)
+PM-PSYCH
+	Debug CCI_DataPrep_2013_0603.sas
+	
+
 
 
 
