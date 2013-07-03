@@ -356,6 +356,24 @@ MELODEM
 	Practice effects conference call (see notes: 2013.07.02_PracticeEffects_ConfCall.doc)
 PM-PSYCH
 	Debug CCI_DataPrep_2013_0603.sas
+
+2013.07.03
+JH POST DOC
+        Finished JHED IRB training
+	Began CITI IRB training
+BC-COG/MITOCHONDRIA
+	Gave comments to Elena - big quesiton - didn't she have
+	several years more cognitive data?
+MELODEM
+	Call Ron Spiro (see notes:
+	2013.07.03_PracticeEffects_RonKickoff.doc)
+PM-PSYCH
+	Debug CCI_DataPrep_2013_0603.sas and
+	CCI_PrevAnalysis_2013_0603.sas
+	Changed CCI_PrevAnalysis_2013_0603.sas to not have robust
+	standard errors, since this doesn't seem necessary and I'm not
+	sure what the assumptions are
+
 	
 
 
