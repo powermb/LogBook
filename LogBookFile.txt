@@ -374,6 +374,28 @@ PM-PSYCH
 	standard errors, since this doesn't seem necessary and I'm not
 	sure what the assumptions are
 
+2013.07.04
+Fourth of July Holiday
+
+2013.07.05
+JH POST DOC
+   	Completed CITI IRB Training
+	Registered at PHRIST, uploaded CITI Certificate
+MITOCHONDRIA
+	Suggested reviewers
+	Inquired about reproducibility of my results with my code
+	because of difficulties Elena is experiencing
+PM-PSYCH
+	Debug CCI_DataPrep_2013_0603.sas and
+	CCI_PrevAnalysis_2013_0603.sas and R code for splines
+	Began master table file
+	Look into H-L issue
+ARIC
+	Downloaded reading about ARIC
+MISC
+	Updated To Do List
+	Reviewed ORGMODE for EMACS
+
 	
 
 
