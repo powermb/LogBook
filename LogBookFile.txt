@@ -396,6 +396,107 @@ MISC
 	Updated To Do List
 	Reviewed ORGMODE for EMACS
 
+2013.07.08
+JH POST DOC
+   	Lunch with Alden, intro to SEM
+	Follow-up meeting with Karen Bandeen Roche about same
+	Prep for meeting with Rebecca
+	Discussed health insurance issues with Rich/SPH
+PM-PSYCH
+	Master table creation
+
+2013.07.09
+JH POST DOC
+   	Met with Rebecca 
+	-Briefly discussed space, computers, swipe access, T32
+	adinistration
+	- Think abotu what you want 1st ARIC mansuscript ot be -
+	?cholesterol
+	- Lots of options for later things including HT, LIPIS, DM and
+	MRI, BP control, Different components of BP, leading HT and
+	cognitive domains at visit 5
+	-Email Laura about network drive
+	-Clinical training options: (a) see patients at Bayview (b)
+	clinic at Bayview for interesting patients (c) weekly journal
+	club Tuesdays at 11am (d) cardiac surgery and cognitive issues
+	work (e) Grand rounds (f) marilyn's dementia conference (g)
+	Hagerstown visit, stae 1 and 2 (h) doing training for
+	informant interview for modified version of CDR
+	-Think about how involved you want to be on the PET study
+	(putting in a grant about sleep apnea and PET)
+	- Thursday, meet by phone. 
+MELODEM
+	Updated code with splines, sent to Alexandre
+(home sick with Daniel in afternoon)
+
+2013.07.10
+JH POST DOC
+   	Met with Richey et al about cognitive decline and diabetes,
+	followed by discussion of how to be involved in ARIC
+	Did lit search to confirm lipids and cognitive decline are of
+	interest
+MELODEM
+	Started process to get VA training for IRB
+(home sick with Daniel in afternoon)
+
+2013.07.11
+JH POST DOC
+   	Phone call with RG
+	-Ok to involve Betsy Ogburn for causal stuff
+	-Cholesterol and cog decline will be first proposal, other
+	possible (involve Allan Pennet)
+	-Register for ARIC password on site to review manuscript
+	proposals
+	-Plan to go to steering committee meeting in Nov or Dec
+	-Get manuscripts to co-authors by July 24
+	-Schedule of other meetings
+	-Briefly discuss K99/R00 - pull together aims draft?
+	-Laptop discussion
+	-Go to Hagerstown July 29th
+	-Weekly meetings on Thursdays at 2pm
+
+2013.07.12
+MELODEM
+	Started VA training for IRB
+JH POST DOC
+   	Met with Richey and others about cognitive decline analyses
+	Met with Richey to discuss MSM and causal mediation papers
+ALZRISK
+	Discussed lit review for cholesterol/statins with Jennifer
+	Weuve
+PM-PSYCH
+	Master table spreadsheet
+
+2013.07.15
+JH POST DOC
+   	Began ARIC manuscript proposal for cholesterol and cog decline
+(home sick with Jacob)
+
+2013.07.16
+PB-MORT
+	Met with Marc to discuss issues with IPW weights, made some
+	progress on looking at them
+MIDDLE AUTHOR
+	Discussed PB-ET paper with Marc:
+		  -Double check John's code for logic/redo data form
+		  -Re-check #s for final version
+		  -Add extra analyses split by age
+PM-PSYCH
+	Discussed PM-Psych - cost benefits of air pollution, short
+	term gains/quick fix look at EPA AST for PM "buzzwords"
+MELODEM
+	Attended follow-up meeting
+K99/R00
+	Read notice
+	Read examples from Allan, Birgit and Joe
+
+
+
+
+
+	
+
+
 	
 
 
