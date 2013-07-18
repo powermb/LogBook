@@ -490,6 +490,21 @@ K99/R00
 	Read notice
 	Read examples from Allan, Birgit and Joe
 
+2013.07.17
+MELODEM
+	Sent R code for splines to collaborators
+	Finished initial VA training on TMS
+ARIC-LIPIDS
+	Literature review for manuscript proposal
+	Met with Victoria Goode about lit search methods
+PM-PSYCH
+	Master table spreadsheet
+	Take a look at Marianthi's IPW code, alter to my "theoretical"
+	model and try to figure out why H-L is significant/fit is bad
+	for meeting with JW
+
+
+
 
 
 
