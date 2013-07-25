@@ -503,6 +503,59 @@ PM-PSYCH
 	model and try to figure out why H-L is significant/fit is bad
 	for meeting with JW
 
+2013.07.18 to 2013.07.23
+ALZRISK
+	Talked to John about process
+ARIC
+	Sat in on ARIC dementia classification call
+	Reviewed IPW in ARIC - lots of issues to address
+	Met with Richey about IPW in ARIC
+	Large group analysis meeting - presented IPW and SEM stuff
+	RG lab meeting
+	Lipids and cognition lit review
+	Lipids and cognition mansucript proposal drafts
+ARIC-SEM
+	Met with Alden and Karen to learn about SEM, do analyses
+PM-PSYCH
+	Master table spreadsheet
+	Play with Marianthi's IPW code for meeting with JW
+	Talked to Jennifer Weuve about model checking for IPW
+BP-COG
+	Copyedited paper for Epidemiology
+MELODEM
+	Began HIPAA training
+JH POST DOC
+	Bothered RG about not getting paid
+	Filled out direct deposit form for Kimberly Holton
+	Set up computer
+
+2013.07.24
+MISC
+	Review literature/AAIC coverage
+JH POST DOC
+	Dealt with getting paid issue
+	Set up computer
+ARIC-LIPIDS
+	Finalized manuscript proposals, sent to RG
+PM-PSYCH
+	Summarized to-dos for IPW to Marianthi
+BP-COG
+	Copyedited paper for Epidemiology
+
+2013.07.25
+JH POST DOC	
+	Met with Joe Coresh and RG to talk about priorities
+	Installed software
+	Tried to get computer functional
+	Got stuck installing SAS
+ARIC LIPIDS
+	Reviewed RG comments
+	Sent to co-authors
+PB ET
+	Tried to review code - not able because don't have necessary files
+MELODEM
+	HIPAA Training
+
 
 
 
